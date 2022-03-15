@@ -1,9 +1,11 @@
 # Hi_end_repository
 
-## first
+*italics* **bold**
+ 
+ -item1
+ -item2
+ -item3
 
-*item
-
-
-
+'''
 creat a block of code
+'''
